@@ -17,7 +17,7 @@ class App extends Component{
       {/*<Message />*/}
       { /*<Greet  name="Anusha" surname="nagulapati"/>
       <p>This is children props</p>
-      <Greet name="sindhu" surname="padhuri"/>
+      <Greet name="Sunitha" surname="Nagulapati"/>
       <button>Click</button>
       <Greet name="Manisha" surname="vudugu"/>
       <Greet name="Sunitha"surname="Nagulapati"/>
